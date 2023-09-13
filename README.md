@@ -1,1 +1,7 @@
 # Shortest-Path-Finding-Visualizer
+
+This project is a Java program that visualizes the A* pathfinding algorithm. The user can create a grid of cells, and then add walls to the grid to represent obstacles. The user can then specify the start and end cells, and the algorithm will find the shortest path from the start cell to the end cell.
+
+The program also allows the user to select different tools to interact with the grid. The tools include a start point tool, an end point tool, a wall tool, and an erase tool.
+
+The program is written in Java and uses the Swing GUI toolkit. It is designed to be easy to use and to provide a visual representation of the A* pathfinding algorithm.
