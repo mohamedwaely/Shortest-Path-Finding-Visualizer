@@ -5,3 +5,7 @@ This project is a Java program that visualizes the A* pathfinding algorithm. The
 The program also allows the user to select different tools to interact with the grid. The tools include a start point tool, an end point tool, a wall tool, and an erase tool.
 
 The program is written in Java and uses the Swing GUI toolkit. It is designed to be easy to use and to provide a visual representation of the A* pathfinding algorithm.
+
+Generating and Clearing Path
+https://github.com/mohamedwaely/Shortest-Path-Finding-Visualizer/assets/126382811/90a79e11-ff8f-4caa-9f93-f329d2e6282e
+
