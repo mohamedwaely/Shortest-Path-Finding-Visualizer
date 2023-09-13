@@ -7,5 +7,9 @@ The program also allows the user to select different tools to interact with the 
 The program is written in Java and uses the Swing GUI toolkit. It is designed to be easy to use and to provide a visual representation of the A* pathfinding algorithm.
 
 Generating and Clearing Path
+
 https://github.com/mohamedwaely/Shortest-Path-Finding-Visualizer/assets/126382811/90a79e11-ff8f-4caa-9f93-f329d2e6282e
 
+
+
+https://github.com/mohamedwaely/Shortest-Path-Finding-Visualizer
