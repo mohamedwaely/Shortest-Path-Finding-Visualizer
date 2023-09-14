@@ -15,6 +15,12 @@ size controls
 
 https://github.com/mohamedwaely/Shortest-Path-Finding-Visualizer/assets/126382811/3465905e-55eb-49aa-bc89-fe67fcf19d4a
 
+searching for shortest path 
+
+https://github.com/mohamedwaely/Shortest-Path-Finding-Visualizer/assets/126382811/8a537a3b-0c9f-468b-abc8-9999d6dbda9c
+
+
+
 
 
 
