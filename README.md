@@ -11,4 +11,10 @@ Generating and Clearing Path
 https://github.com/mohamedwaely/Shortest-Path-Finding-Visualizer/assets/126382811/90a79e11-ff8f-4caa-9f93-f329d2e6282e
 
 
+size controls
+
+https://github.com/mohamedwaely/Shortest-Path-Finding-Visualizer/assets/126382811/3465905e-55eb-49aa-bc89-fe67fcf19d4a
+
+
+
 
